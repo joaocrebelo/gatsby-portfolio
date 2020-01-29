@@ -31,10 +31,6 @@ module.exports = {
       label: 'About',
       path: '/pages/about'
     },
-    {
-      label: 'Contacts',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'João Rebelo',

@@ -13,7 +13,9 @@ Through my work in Research & Development at [LabSecIoT](https://labseciot.dsi.u
 ## An Immersive Visualization System for a Big Data Context in Bosch’s Industry 4.0 Movement
 <small>📜 16th European, Mediterranean and Middle Eastern Conference on Information Systems</small><br>
 <small>🌍 Dubai, United Arab Emirates | 🇦🇪</small><br>
-<small>📆 9 - 10 December 2019</small>
+<small>📆 9 - 10 December 2019</small><br>
+<small>🔎 Awaiting publication</small><br>
+<small>⭐ Best Technical Paper Award</small>
 
 #### Authors
 João Rebelo, Carina Andrade, Carlos Costa, Maribel Y. Santos
@@ -25,9 +27,9 @@ João Rebelo, Carina Andrade, Carlos Costa, Maribel Y. Santos
 
 ## EDGE4ALL - Edge Platform For Smart City
 <small>📜 Smart City Summit Demos 2018</small><br>
-<small>🌍 Guimaraes, Portugal | 🇦🇪</small><br>
-<small>📆 21 - 23 November 2018</small>
-<small></small>
+<small>🌍 Guimarães, Portugal | 🇵🇹</small><br>
+<small>📆 21 - 23 November 2018</small><br>
+<small>🔎 DOI 10.4108/eai.21-11-2018.2280384</small>
 
 #### Authors
 Ricardo Martins, Henrique Santos, João Rebelo, Luís Ferreira
