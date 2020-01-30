@@ -11,6 +11,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@mdx-js/mdx": "^1.5.5",
+    "@mdx-js/react": "^1.5.5",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.6.1",
@@ -22,6 +24,7 @@
     "gatsby-plugin-flow": "^1.1.18",
     "gatsby-plugin-google-gtag": "^1.1.21",
     "gatsby-plugin-manifest": "^2.2.38",
+    "gatsby-plugin-mdx": "^1.0.69",
     "gatsby-plugin-netlify": "^2.1.31",
     "gatsby-plugin-netlify-cms": "^4.1.37",
     "gatsby-plugin-offline": "^3.0.32",
