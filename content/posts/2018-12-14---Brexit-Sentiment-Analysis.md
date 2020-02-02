@@ -1,6 +1,6 @@
 ---
 title: "Brexit - Sentiment Analysis with GDELT"
-date: "2018-12-14T22:12:03.284Z"g
+date: "2018-12-14T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "brexit-sentiment-analysis"
