@@ -42,9 +42,6 @@ module.exports = {
         path: `${__dirname}/static`
       }
     },
-    // {
-    //   resolve: 'gatsby-plugin-mdx'
-    // },
     {
       resolve: 'gatsby-plugin-feed',
       options: {
