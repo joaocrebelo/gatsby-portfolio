@@ -5,7 +5,7 @@ template: "page"
 
 Hi! My name is João Rebelo and I am an Information Systems Engineer. Or Manager. Or both. My degree says both. I like both.
 
-I often describe myself as a "jack of all trades" as I have worked in a diverse amount of subdomains in both technology and business. However, as per my experience, my current specialization is in Big Data and modern Web Development. Having grown up around businesses and due to my background in IS, I am particularly skilled to work in the gap between business and technology. I am also heavily interested in facts, truth in information and the value in data.
+I often describe myself as a "jack of all trades" as I have worked in a diverse amount of subdomains in both technology and business. However, as per my experience, my current specialization is in Big Data and modern Web Development. Having grown up around businesses and due to my background in IS, I am particularly skilled to work in the gap between business and technology. Given the current challenges we are facing that relate to information and technology, I am also heavily interested in facts, truth in information and the value in data.
 
 ### Skills & Interests
 
