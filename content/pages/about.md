@@ -1,31 +1,30 @@
 ---
 title: "About Me"
 template: "page"
-socialImage: "/media/image-4.jpg"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Hi! My name is João Rebelo and I am an Information Systems Engineer. Or Manager. Or both. My degree says both. I like both.
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+I often describe myself as a "jack of all trades" as I have worked in a diverse amount of subdomains in both technology and business. However, as per my experience, my current specialization is in Big Data and modern Web Development. Having grown up around businesses and due to my background in IS, I am particularly skilled to work in the gap between business and technology. I am also heavily interested in facts, truth in information and the value in data.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+### Skills & Interests
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+In personal and academic projects I have worked with a wide variety of current technologies and tools such as JavaScript (React, Gatsby), NodeJS, Python, Java, SQL, MongoDB, Hadoop and Tableau, GraphQL and REST APIs, Docker and others.
 
-## Header Level 2
+I have various areas of interest, including Data Engineering, Big Data, BI, Smart Cities and IoT, Web Development, Data Analytics and Visualization, having worked with novel concepts such as Mixed Reality and Immersive Analytics. 
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+I am also heavily interested in the business aspect of technology, product development and design. I have acquired strong communication and leadership capabilities from managing several projects and teams, and from delivering presentations to varied audiences and stakeholders.
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+### Languages
 
-### Header Level 3
+🇬🇧 English <small>Proficient</small><br>
+🇵🇹 Portuguese <small>Proficient (native)</small><br>
+🇪🇸 Spanish <small>Basic</small>
 
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
+#### About this page
 
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
+This page was created because I wanted to do some Gatsby and React thinkering after watching [Jason Langstorf's](https://twitter.com/jlengstorf) great Gatsby courses on [FrontendMasters](https://frontendmasters.com/teachers/jason-lengstorf/) and a few of his videos on [LearnWithJason](https://www.learnwithjason.dev/). 
 
-#### Header Level 4
+This is a static site / PWA / personal blog / portfolio page / highly performant Gatsby app based on the [gatsby-starter-lumen](https://www.gatsbyjs.org/starters/alxshelepenok/gatsby-starter-lumen/) by [Alex Shelepenok](https://github.com/alxshelepenok). Deployed on Netlify with their great CD wizardry alonside GitHub.
 
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1b709db-6062-48c0-b89e-df6dfecb4b1a/deploy-status)](https://app.netlify.com/sites/joaocrebelo/deploys)
