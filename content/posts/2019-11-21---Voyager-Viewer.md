@@ -1,16 +1,15 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: "Voyaver Viewer - Web Based Visualization of Neo4j DBs"
+date: "2019-11-21T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "voyager-viewer"
 category: "Projects"
 tags:
-  - "Design"
-  - "Typography"
+  - "Big Data"
+  - "Visualization"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+description: "Voyager Viewer is a generic web application for the visual exploration of Neo4j graph databases based on immersive components and novel experiences."
 ---
 
 - [The first transition](#the-first-transition)
