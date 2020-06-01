@@ -3,19 +3,13 @@ title: "About Me"
 template: "page"
 ---
 
-Hi! My name is João Rebelo and I am an Information Systems Engineer. Or Manager. Or both. My degree says both. I like both.
+Hi! My name is João Rebelo and I am an Information Systems (IS) Engineer. Or Manager. Or both. My degree says both. I like both.
 
-I often describe myself as a "jack of all trades" as I have worked in a diverse amount of subdomains in both technology and business. However, as per my experience, my current specialization is in Big Data and modern Web Development. Having grown up around businesses and due to my background in IS, I am particularly skilled to work in the gap between business and technology. Given the current challenges we are facing that relate to information and technology, I am also heavily interested in facts, truth in information and the value in data.
+I often describe myself as a "jack of all trades" as I enjoy exploring most of the landscape from business to information technology and everything in between. Having grown up around businesses and given the business-minded background of part of the IS curriculum, I am particularly skilled to work in the gap between business and technology. Tech-wise, and given my experience, my areas of preference are Big Data (namely Immersive Analytics) and modern Web Development (including novel experiments with Mixed Reality), although I've been fortunate enough to work in both personal and academic projects in areas such as Smart Cities, IoT, data visualization, networking, . Given the current challenges we are facing that relate to information and technology, I am also heavily interested in facts, truth in information and the value of data and its interpretation - [Factfullness](https://www.goodreads.com/book/show/34890015-factfulness) should be mandatory reading in every school.
 
-### Skills & Interests
+I have had the chance to work with tools and technologies such as JavaScript (Vanilla, React, Gatsby), NodeJS, Python, Java; SQL, MongoDB, the Hadoop ecossystem and Tableau, GraphQL and REST APIs, Docker and Netlify. I am also heavily interested in the business aspect of technology, product development and design. Having had the chance to be team leader in several group projects I was able to develop good foundational leadership capabilities. I have also strenghtened my communication skills by delivering presentations to varied audiences and stakeholders.
 
-In personal and academic projects I have worked with a wide variety of current technologies and tools such as JavaScript (React, Gatsby), NodeJS, Python, Java, SQL, MongoDB, Hadoop and Tableau, GraphQL and REST APIs, Docker and others.
-
-I have various areas of interest, including Data Engineering, Big Data, BI, Smart Cities and IoT, Web Development, Data Analytics and Visualization, having worked with novel concepts such as Mixed Reality and Immersive Analytics. 
-
-I am also heavily interested in the business aspect of technology, product development and design. I have acquired strong communication and leadership capabilities from managing several projects and teams, and from delivering presentations to varied audiences and stakeholders.
-
-### Languages
+## Languages
 
 🇬🇧 English <small>Proficient</small><br>
 🇵🇹 Portuguese <small>Proficient (native)</small><br>

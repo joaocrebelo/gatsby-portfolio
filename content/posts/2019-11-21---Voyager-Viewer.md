@@ -12,7 +12,17 @@ tags:
 description: "Voyager Viewer is a generic web application for the visual exploration of Neo4j graph databases based on immersive components and novel experiences."
 ---
 
-[See a demo live!](https://rebelo.xyz:7001/)
+Voyager Viewer was a 
+
+
+## Design
+
+A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but 
+
+![logo.svg](/media/logo.svg)
+<small> Custom logo for the Voyager Viewer project  </small>
+
+[See a demo live!](https://lynx.dsi.uminho.pt:11001/)
 
 <!-- 
 - [The first transition](#the-first-transition)

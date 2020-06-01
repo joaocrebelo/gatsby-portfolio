@@ -8,13 +8,17 @@ socialImage: ""
 Through my work in Research & Development at [LabSecIoT](https://labseciot.dsi.uminho.pt) and [LynxLab](http://www3.dsi.uminho.pt/maribel/lynxlab/index.html) I've participated and presented at various conferences, having published the following scientific content:
 
 - [An Immersive Visualization System for a Big Data Context in Bosch’s Industry 4.0 Movement](#an-immersive-visualization-system-for-a-big-data-context-in-boschs-industry-40-movement)
+    - [Authors](#authors)
+    - [Abstract](#abstract)
 - [EDGE4ALL - Edge Platform For Smart City](#edge4all---edge-platform-for-smart-city)
+    - [Authors](#authors-1)
+    - [Abstract](#abstract-1)
 
 ## An Immersive Visualization System for a Big Data Context in Bosch’s Industry 4.0 Movement
 <small>📜 16th European, Mediterranean and Middle Eastern Conference on Information Systems</small><br>
 <small>🌍 Dubai, United Arab Emirates | 🇦🇪</small><br>
 <small>📆 9 - 10 December 2019</small><br>
-<small>🔎 Awaiting publication</small><br>
+<small>🔎 DOI 10.1007/978-3-030-44322-1_6</small><br>
 <small>⭐ Best Technical Paper Award</small>
 
 #### Authors
