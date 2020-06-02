@@ -4,15 +4,7 @@ template: "page"
 socialImage: ""
 ---
 
-
 Through my work in Research & Development at [LabSecIoT](https://labseciot.dsi.uminho.pt) and [LynxLab](http://www3.dsi.uminho.pt/maribel/lynxlab/index.html) I've participated and presented at various conferences, having published the following scientific content:
-
-- [An Immersive Visualization System for a Big Data Context in Bosch’s Industry 4.0 Movement](#an-immersive-visualization-system-for-a-big-data-context-in-boschs-industry-40-movement)
-    - [Authors](#authors)
-    - [Abstract](#abstract)
-- [EDGE4ALL - Edge Platform For Smart City](#edge4all---edge-platform-for-smart-city)
-    - [Authors](#authors-1)
-    - [Abstract](#abstract-1)
 
 ## An Immersive Visualization System for a Big Data Context in Bosch’s Industry 4.0 Movement
 <small>📜 16th European, Mediterranean and Middle Eastern Conference on Information Systems</small><br>
@@ -40,7 +32,3 @@ Ricardo Martins, Henrique Santos, João Rebelo, Luís Ferreira
 
 #### Abstract
 <div style="text-align: justify;">Current trends in technology development, both in terms of processing and communications, brought a new paradigm known as IoT (Internet of Things). Notwithstanding all anticipated advantages, from business to quality of life impacts, there are important challenges to overcome. Above all security and privacy requirements need to be addressed carefully looking for ways to control trust levels. Concerning system architecture, another problem arises from the limited bandwidth available at the Cloud level (where processing today occurs for the type of applications in question), to connect directly to million of devices sending very little amount of information, but continuously. This problem has been addressed through the concept of Edge or Fog Computing. This project aims to design such an edge, with specific requirements to support Smart Cities or similar environments, such as: accept and deal with different devices’ security levels; dynamically process the information and provide it through an API; keep historical data to provide a proper big data/machine learning information source; offer a platform to securely manage the deployed devices; and design a dynamic and intuitive dashboard displaying the information, warnings and alert messages, in formats suitable to all stakeholders.
-
-
-
-

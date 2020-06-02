@@ -14,4 +14,4 @@ template: "page"
 ## 🎓 Academic
 *Excellence Scholarship Award* <br>
 <small>📍 Universidade do Minho | Braga, Portugal</small><br>
-<small>📆 2017, 2018, 2019</small><br>
+<small>📆 2017, 2018</small><br>
